@@ -5,11 +5,13 @@ Home: https://github.com/rtqichen/torchdiffeq
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/torchdiffeq-feedstock/blob/master/LICENSE.txt)
 
 Summary: ODE solvers and adjoint sensitivity analysis in PyTorch.
 
+Development: https://github.com/rtqichen/torchdiffeq
 
+Documentation: https://pypi.org/project/torchdiffeq/#description
 
 Current build status
 ====================
