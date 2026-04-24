@@ -1,5 +1,5 @@
 {% set name = "torchdiffeq" %}
-{% set version = "0.2.2" %}
+{% set version = "0.2.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 02486c8efb005d5dca99a0bd4905c9d13d945f6e33bc23a99b2b008ccb824fa1
+  sha256: fe75f434b9090ac0c27702e02bed21472b0f87035be6581f51edc5d4013ea31a
 
 build:
   number: 0
